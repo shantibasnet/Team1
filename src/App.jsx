@@ -1,9 +1,12 @@
-
+import "./App.css";
+import Body from "./body";
 
 function App() {
   return (
-    <div>App</div>
-  )
+    <>
+      <Body />
+    </>
+  );
 }
 
-export default App
+export default App;
